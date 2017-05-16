@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Enver Creek Secondary</title>
+</head>
+<h1>Enver Creek Secondary</h1>
+<img src="https://www.surreyschools.ca/schools/envercreek/Style%20Library/Images/114.jpg">
+<table>
+ <thead>
+<tr>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+  <tr>
+    <td>8:30-9:50am(BLOCK A)</td>>
+    <td>8:30-9:50am(BLOCK C)</td>
+    <td>8:30-9:50am(BLOCK B)</td>
+    <td>8:30-9:50am(BLOCK D)</td>
+    <td>8:30-9:50am(ROTATE EACH WEEK)</td>
+  </tr>
+  <tr>
+    <td>9:55-10:05am(TAG)</td>
+    <td>9:55-10:05am(TAG)</td>
+    <td>9:55-10:05am(TAG)</td>
+    <td>9:55-10:05am(TAG)</td>
+    <td>9:55-10:05am(TAG)</td>
+  </tr>
+  <tr>
+    <td>10:10-11:30(BLOCK B)</td>
+    <td>10:10-11:30(BLOCK D)</td>
+    <td>10:10-11:30(BOCK A)</td>
+    <td>10:10-11:30(BLOCK C)</td>
+    <td>10:10-11:30(ROTATE EACH WEEK)</td>
+  </tr>
+  <tr>
+   <td>11:30-12:10(LUNCH)</td>
+   <td>11:30-12:10(LUNCH)</td>
+   <td>11:30-12:10(LUNCH)</td>
+   <td>11:30-12:10(LUNCH)</td>
+   <td>11:30-12:10(LUNCH)</td>
+  </tr>
+  <tr>
+    <td>12:15pm - 1:35pm(BLOCK C)</td>
+    <td>12:15pm - 1:35pm(BLOCK A)</td>
+    <td>12:15pm - 1:35pm (BLOCK D</td>
+    <td>12:15pm - 1:35pm (BLOCK B)</td>
+    <td>12:15pm - 1:35pm(ROTATE EACH WEEK)</td>
+  </tr>
+  <tr>
+    <td>1:40pm - 2:53pm(BLOCK D)</td>
+    <td>1:40pm - 2:53pm(BLOCK B)</td>
+    <td>1:40pm - 2:53pm(BLOCK C)</td>
+    <td>1:40pm - 2:53pm(BLOCK A)</td>
+    <td>1:40pm - 2:53pm (ROTATE EACH WEEK)</td>
+  </tr>
+</tbody>
+</table>
+</html>
+
+<style>
+h1 {
+  color: white;
+  font-family: cooper black;
+  font-size: 35px;
+}
+
+body {
+  font-size: 18px;
+  color: white;
+  background-color: black;
+}
+
+table,
+th,
+td {
+  font: Concrete Roman;
+  border: 1px solid white;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+</style>
